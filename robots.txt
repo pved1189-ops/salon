@@ -1,0 +1,11 @@
+# Robots.txt for Takdir Hair Style
+# Replace https://YOURDOMAIN.com/ with your actual live domain (e.g., https://takdirhairstyle.com/)
+
+User-agent: *
+Allow: /
+
+# Disallow sensitive or unnecessary folders if any
+Disallow: /assets/icons/
+
+# Sitemap location
+Sitemap: https://YOURDOMAIN.com/sitemap.xml
